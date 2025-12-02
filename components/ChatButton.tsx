@@ -38,7 +38,7 @@ export default function ChatButton({ onPress, unreadCount = 0 }: ChatButtonProps
 const styles = StyleSheet.create({
   button: {
     position: 'absolute',
-    bottom: 80,
+    bottom: 130,
     right: 16,
     width: 56,
     height: 56,
